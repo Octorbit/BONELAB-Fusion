@@ -55,8 +55,8 @@ public struct FusionVersion
 
 public class FusionMod : MelonMod
 {
-    public const string ModName = "LabFusion";
-    public const string ModAuthor = "Lakatrazz";
+    public const string ModName = "1OfUsLabFusion";
+    public const string ModAuthor = "OneOfUS";
 
     public const string GameDeveloper = "Stress Level Zero";
 
