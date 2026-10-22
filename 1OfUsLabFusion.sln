@@ -2,11 +2,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabFusionUpdater", "LabFusionUpdater\LabFusionUpdater.csproj", "{F95D874D-964D-476F-8641-FD55AD88EF07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1OfUsLabFusionUpdater", "LabFusionUpdater\1OfUsLabFusionUpdater.csproj", "{F95D874D-964D-476F-8641-FD55AD88EF07}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabFusion", "LabFusion\LabFusion.csproj", "{337CAFD9-3866-4DD4-8AA6-B31686982F45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1OfUsLabFusion", "LabFusion\1OfUsLabFusion.csproj", "{337CAFD9-3866-4DD4-8AA6-B31686982F45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonelabSupport", "BonelabSupport\BonelabSupport.csproj", "{EBB1FD6E-93E6-492F-8105-7F5F1943A2B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BonelabSupport", "BonelabSupport\BonelabSupport.csproj", "{EBB1FD6E-93E6-492F-8105-7F5F1943A2B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SupportModules", "SupportModules", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
